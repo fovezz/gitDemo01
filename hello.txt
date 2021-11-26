@@ -1,4 +1,3 @@
 hello git!
-hello third!
+hello third!  master
 热修版本！测试中。。。。
-master
