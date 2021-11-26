@@ -1,6 +1,0 @@
-hello third!
-hello third!
-hello third!
-hello git!
-hello git!
-hello git!
